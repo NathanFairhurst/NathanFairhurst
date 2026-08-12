@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/NathanFairhurst](https://github.com/NathanFairhurst)
 
-- 📫 How to reach me: **Email: nathanfairhurst@outlook.com**
+- 📫 How to reach me: **nathanfairhurst@outlook.com**
 
 - ⚡ Hobbies: **I love playing video games such as Bloodborne, Elden Ring and Football Manager. I love the outdoors and going on hikes in Wales, The Lake District and The Peak District**
 
