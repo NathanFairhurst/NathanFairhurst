@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **nathanfairhurst@outlook.com**
 
-- ⚡ Hobbies: **I love playing video games such as Bloodborne, Elden Ring and Football Manager. I love the outdoors and going on hikes in Wales, The Lake District and The Peak District**
+- ⚡ Hobbies: **I love playing video games such as Bloodborne, Elden Ring and Football Manager. I love the outdoors and going on hikes in Wales, The Lake District and The Peak District.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
