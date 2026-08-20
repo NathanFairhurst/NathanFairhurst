@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate programmer looking to find a career in Data Science</h3>
 
+- 🔭 I’m currently working on: **I am analysing data using PySpark and Plotly alongside the Paris 2024 Olympics dataset found on Kaggle (https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games). This project involves Python, PySpark, Plotly, Pandas and some SQL**  
+
 - 🌱 What I’m currently learning: **Python, Pandas, Numpy, Matplotlib and SQL are my main focuses as they are the key tools and programming languages needed in Data Science**
 
 - 📄 Know about my experience: **I first started programming at Wigan and Leigh College where I learnt languages such as Python, C++, HTML, CSS, Java and Javascript. I earning a DDM from the college and then went on to pursue a Bachelor's Degree in Computer Science and Artificial Intelligence at Edge Hill University. While at university, I further developed my skills in Python while also learning about SQL, Pandas, Numpy and Matplotlib. For my hard work and dedication, I achieved a 2:1.**
